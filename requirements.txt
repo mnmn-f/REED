@@ -1,0 +1,11 @@
+numpy>=1.22
+scipy
+scikit-learn
+torch>=2.3
+torchvision
+torchaudio
+timm>=1.0
+PyYAML
+yacs
+Pillow
+soundfile
